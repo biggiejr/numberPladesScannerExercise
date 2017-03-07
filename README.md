@@ -1,1 +1,1 @@
-# numberPladesScannerExercise
+# numberPlatesScannerExercise
